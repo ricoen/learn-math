@@ -1,2 +1,2 @@
 # learn-math
-Learn mathematics with Python programming
+Learn mathematics for machine learning with Python.
